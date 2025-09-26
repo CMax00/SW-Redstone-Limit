@@ -7,4 +7,5 @@ public class SwRedstoneLimit implements ModInitializer {
     @Override
     public void onInitialize() {
     }
+
 }
